@@ -1,0 +1,13 @@
+.hide_the_word
+{
+display:none;
+}
+.color
+{
+	p:nth-of-type(even)
+	{
+		background:#ff0000;
+	}
+}
+
+.unis tr:nth-child(odd) {background: #a293ff}
